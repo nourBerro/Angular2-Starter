@@ -1,4 +1,4 @@
-# Angular2-Starter
+# Angular2-Starter with route 
 Angular 2 starter code with routing enabled 
 
 
